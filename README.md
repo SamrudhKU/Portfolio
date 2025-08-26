@@ -1,11 +1,12 @@
-🌐 Portfolio Website
+##🌐 Portfolio Website
 
 This is my personal portfolio website, developed using HTML, CSS, and JavaScript, and hosted on Vercel.
 It showcases my skills, projects, and experience as a developer.
 
 🔗 Live Demo: samrudhku.vercel.app
 
-✨ Features
+
+#✨ Features
 
 Responsive design for desktop, tablet, and mobile.
 
@@ -19,13 +20,15 @@ Contact section for easy communication.
 
 Deployed seamlessly on Vercel for fast and reliable hosting.
 
-🛠️ Tech Stack
+
+#🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
 Hosting: Vercel
 
-📂 Project Structure
+
+#📂 Project Structure
 portfolio-website/
 ├── index.html
 ├── about.html
@@ -39,7 +42,8 @@ portfolio-website/
 │   └── images/
 └── README.md
 
-🚀 Getting Started
+
+#🚀 Getting Started
 1. Clone the repository
 git clone https://github.com/<your-username>/portfolio-website.git
 cd portfolio-website
@@ -51,7 +55,7 @@ Just open index.html in your browser.
 3. Deploy on Vercel
 vercel deploy
 
-👤 Author
 
+#👤 Author
 Samrudh KU
 🔗 Portfolio
