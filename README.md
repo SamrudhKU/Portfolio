@@ -31,22 +31,6 @@ Hosting: Vercel
 
 
 
-## 📂 Project Structure
-portfolio-website/
-├── index.html
-├── about.html
-├── projects.html
-├── contact.html
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── main.js
-│   └── images/
-└── README.md
-
-
-
 ## 🚀 Getting Started
 1. Clone the repository
 git clone https://github.com/<your-username>/portfolio-website.git
