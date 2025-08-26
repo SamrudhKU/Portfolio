@@ -6,6 +6,7 @@ It showcases my skills, projects, and experience as a developer.
 🔗 Live Demo: samrudhku.vercel.app
 
 
+
 ## ✨ Features
 
 Responsive design for desktop, tablet, and mobile.
@@ -21,11 +22,13 @@ Contact section for easy communication.
 Deployed seamlessly on Vercel for fast and reliable hosting.
 
 
+
 ## 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
 Hosting: Vercel
+
 
 
 ## 📂 Project Structure
@@ -43,6 +46,7 @@ portfolio-website/
 └── README.md
 
 
+
 ## 🚀 Getting Started
 1. Clone the repository
 git clone https://github.com/<your-username>/portfolio-website.git
@@ -54,6 +58,7 @@ Just open index.html in your browser.
 
 3. Deploy on Vercel
 vercel deploy
+
 
 
 ## 👤 Author
